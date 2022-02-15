@@ -20,7 +20,7 @@ namespace San4oClient
     /// </summary>
     public partial class MainWindow : Window
     {
-        Boolean githubTest = false;
+        Boolean githubTest = true;
         public MainWindow()
         {
             InitializeComponent();
